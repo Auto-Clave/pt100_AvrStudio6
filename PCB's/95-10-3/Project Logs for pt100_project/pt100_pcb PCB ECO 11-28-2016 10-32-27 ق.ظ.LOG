@@ -1,0 +1,73 @@
+Added Component: Designator=C1(RAD-0.3)
+Added Component: Designator=C2(RAD-0.3)
+Added Component: Designator=D1(DIO10.46-5.3x2.8)
+Added Component: Designator=pt100_s(HDR1X4)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=R5(AXIAL-0.3)
+Added Component: Designator=R6(AXIAL-0.3)
+Added Component: Designator=R7(AXIAL-0.3)
+Added Component: Designator=R8(AXIAL-0.3)
+Added Component: Designator=regulator(VR5)
+Added Component: Designator=U1(N014)
+Added Component: Designator=U2(TO92)
+Added Component: Designator=varible(VR5)
+Added Component: Designator=vcc_vo(HDR1X4)
+Added Pin To Net: NetName=GND1 Pin=C1-1
+Added Pin To Net: NetName=GND1 Pin=C2-1
+Added Pin To Net: NetName=GND1 Pin=D1-1
+Added Pin To Net: NetName=GND1 Pin=pt100_s-1
+Added Pin To Net: NetName=GND1 Pin=R3-2
+Added Pin To Net: NetName=GND1 Pin=regulator-2
+Added Pin To Net: NetName=GND1 Pin=U1-11
+Added Pin To Net: NetName=GND1 Pin=U2-2
+Added Pin To Net: NetName=GND1 Pin=vcc_vo-4
+Added Net: Name=GND1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R2-2
+Added Pin To Net: NetName=NetC1_2 Pin=vcc_vo-3
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=Netpt100_s_2 Pin=pt100_s-2
+Added Pin To Net: NetName=Netpt100_s_2 Pin=varible-1
+Added Net: Name=Netpt100_s_2
+Added Pin To Net: NetName=Netpt100_s_3 Pin=pt100_s-3
+Added Pin To Net: NetName=Netpt100_s_3 Pin=pt100_s-4
+Added Pin To Net: NetName=Netpt100_s_3 Pin=R5-1
+Added Pin To Net: NetName=Netpt100_s_3 Pin=R7-1
+Added Net: Name=Netpt100_s_3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R4-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Pin To Net: NetName=NetR1_2 Pin=U1-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R5-2
+Added Pin To Net: NetName=NetR3_1 Pin=U1-3
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R6-1
+Added Pin To Net: NetName=NetR4_1 Pin=varible-2
+Added Pin To Net: NetName=NetR4_1 Pin=varible-3
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R7-2
+Added Pin To Net: NetName=NetR6_2 Pin=R8-2
+Added Pin To Net: NetName=NetR6_2 Pin=regulator-1
+Added Pin To Net: NetName=NetR6_2 Pin=U2-1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=Netregulator_3 Pin=regulator-3
+Added Pin To Net: NetName=Netregulator_3 Pin=U2-3
+Added Net: Name=Netregulator_3
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=R8-1
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=VCC Pin=vcc_vo-1
+Added Net: Name=VCC
+Added Class: Name=pt100_shc
+Added Room: Name=pt100_shc

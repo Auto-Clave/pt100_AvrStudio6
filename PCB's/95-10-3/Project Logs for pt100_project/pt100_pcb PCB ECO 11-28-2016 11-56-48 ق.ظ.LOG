@@ -1,0 +1,4 @@
+Added Component: Designator=rs0(AXIAL-0.3)
+Added Pin To Net: NetName=GND1 Pin=rs0-1
+Added Pin To Net: NetName=GND1 Pin=rs0-2
+Added Member To Class: ClassName=pt100_shc Member=Component rs0 0

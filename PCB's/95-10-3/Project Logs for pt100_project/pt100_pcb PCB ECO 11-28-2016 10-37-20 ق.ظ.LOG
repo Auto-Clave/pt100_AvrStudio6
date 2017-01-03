@@ -1,0 +1,9 @@
+Added Component: Designator=Dled(CE6)
+Added Component: Designator=Rled(AXIAL-0.3)
+Added Pin To Net: NetName=GND1 Pin=Dled-1
+Added Pin To Net: NetName=NetR6_2 Pin=Rled-1
+Added Pin To Net: NetName=NetDled_2 Pin=Dled-2
+Added Pin To Net: NetName=NetDled_2 Pin=Rled-2
+Added Net: Name=NetDled_2
+Added Member To Class: ClassName=pt100_shc Member=Component Dled LED0
+Added Member To Class: ClassName=pt100_shc Member=Component Rled 330
